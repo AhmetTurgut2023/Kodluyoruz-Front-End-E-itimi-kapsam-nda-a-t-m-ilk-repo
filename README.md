@@ -1,1 +1,1 @@
-# Kodluyoruz-Front-End-E-itimi-kapsam-nda-a-t-m-ilk-repo
+# Kodluyoruz-Front-End-Egitimi-kapsamında-actigim-ilk-repo
